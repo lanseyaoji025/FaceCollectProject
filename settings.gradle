@@ -1,1 +1,1 @@
-include ':app',':FastNetworkLibrary'
+include ':android_facecollect',':FastNetworkLibrary'
